@@ -218,6 +218,8 @@ function create_config( )
     "arabic_lock",
     "set",
     "get",
+    "getplug",
+    "addplug",
     "broadcast",
     "download_media",
     "invite",
@@ -242,7 +244,7 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {157059515,162108576},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
