@@ -1,15 +1,18 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v5'.. VERSION .. [[ 
+  return 'Tele GUlf v3'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @solid021
   
-  Channel : @Nod32team
+  Sponser&Manager : @parsa-psg
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Special Thx To:
+  @mrhalix
   
-  NOD32 VERSION 5
+  Channel : @TeleGulf_Ch
+  
+  Tele Gulf VERSION 5
   
   All rights reserved.
   __________________]]
@@ -25,7 +28,3 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
