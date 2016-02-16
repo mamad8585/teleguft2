@@ -220,6 +220,9 @@ function create_config( )
     "get",
     "getplug",
     "addplug",
+    "add",
+    "admin",
+    "filter",
     "broadcast",
     "download_media",
     "invite",
@@ -248,10 +251,11 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+Channel : @TeleGulf_Ch
+Team Channel : @PersianGulf_Team
+Sudo : @solid021
+       @parsa_psg
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -316,11 +320,11 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+Ch: @TeleGulf_Ch
 
 ]],
     help_text = [[
-NOD32 Commands list :
+Tele Gulf Commands list :
  
 1-banhammer list ^
  
@@ -472,8 +476,10 @@ NOD32 Commands list :
 !botnumber
 دریافت شماره ربات
 
-!support
-دعوت سازنده ربات به گروه
+!solid
+!parsa
+!mrhalix
+دعوت کردن سودو ها به گروه
 (در صورت وجود مشکل)
 
 !version
@@ -482,13 +488,14 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @BehroozYaghi
-توسعه دهنده
+Developer: @solid021
+Sponser: @parsa_psg
+Manager: @mrhalix
 
-channel: @Nod32team
+Cchannel: @TeleGulf_Ch
 کانال ما
 
-G00D LUCK ^_^
+✌Tele Gulf✌
 ]]
   }
   serialize_to_file(config, './data/config.lua')
