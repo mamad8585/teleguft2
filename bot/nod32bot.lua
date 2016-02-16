@@ -240,7 +240,6 @@ function create_config( )
     "spm",
     "chatbot",
     "version",
-    "support",
     "gps",
     "stats",
     "botnumber",
@@ -252,10 +251,17 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 
+TeLe Gulf Based On Nod32
+
 Channel : @TeleGulf_Ch
+
 Team Channel : @PersianGulf_Team
+
 Sudo : @solid021
        @parsa_psg
+
+Special Thx To:
+@mrhalix
 ]],
     help_text_realm = [[
 Realm Commands:
