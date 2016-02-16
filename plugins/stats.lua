@@ -141,15 +141,10 @@ return {
     "^[!/]([Ss]tats)$",
     "^[!/]([Ss]tatslist)$",
     "^[!/]([Ss]tats) (group) (%d+)",
-    "^[!/]([Ss]tats) (nod32)",-- Put everything you like :)
-		"^[!/]([Nn]od32)"-- Put everything you like :)
+    "^[!/]([Ss]tats) (telegulf)",-- Put everything you like :)
+		"^[!/]([Tt]elegulf)"-- Put everything you like :)
     }, 
   run = run
 }
 
 end
-
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
