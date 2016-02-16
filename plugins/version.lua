@@ -5,14 +5,14 @@ function run(msg, matches)
  
   Developer : @solid021
   
-  Sponser&Manager : @parsa-psg
+  Sponser&Manager : @parsa_psg
   
   Special Thx To:
   @mrhalix
   
   Channel : @TeleGulf_Ch
   
-  Tele Gulf VERSION 5
+  Tele Gulf VERSION 3
   
   All rights reserved.
   __________________]]
