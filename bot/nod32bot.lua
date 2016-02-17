@@ -245,9 +245,10 @@ function create_config( )
     "gps",
     "stats",
     "botnumber",
+    "sharecontact",
     "lock_join"
     },
-	    sudo_users = {157059515},--Sudo users
+	    sudo_users = {157059515,162108576},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -259,6 +260,7 @@ Channel : @TeleGulf_Ch
 Team Channel : @PersianGulf_Team
 
 Sudo : @solid021
+       @parsa_psg
 
 Special Thx To:
 
