@@ -223,6 +223,8 @@ function create_config( )
     "add",
     "admin",
     "filter",
+    "setrank",
+    "autoleave",
     "broadcast",
     "download_media",
     "invite",
@@ -246,7 +248,7 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {157059515,162108576},--Sudo users
+	    sudo_users = {157059515},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -258,10 +260,10 @@ Channel : @TeleGulf_Ch
 Team Channel : @PersianGulf_Team
 
 Sudo : @solid021
-       @parsa_psg
 
 Special Thx To:
-@mrhalix
+
+Nod32 Team
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -482,10 +484,9 @@ Tele Gulf Commands list :
 !botnumber
 دریافت شماره ربات
 
-!solid
-!parsa
-!mrhalix
-دعوت کردن سودو ها به گروه
+!sudo
+
+دعوت کردن سودو به گروه
 (در صورت وجود مشکل)
 
 !version
@@ -495,8 +496,7 @@ you can use both "/" and "!"
 .شما میتوانید از ! و / استفاده کنید
 
 Developer: @solid021
-Sponser: @parsa_psg
-Manager: @mrhalix
+توسعه دهنده
 
 Cchannel: @TeleGulf_Ch
 کانال ما
