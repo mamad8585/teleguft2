@@ -245,7 +245,6 @@ function create_config( )
     "gps",
     "stats",
     "botnumber",
-    "info",
     "lock_join"
     },
 	    sudo_users = {157059515},--Sudo users
