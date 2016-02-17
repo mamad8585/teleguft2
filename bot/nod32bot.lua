@@ -485,8 +485,8 @@ Tele Gulf Commands list :
 !botnumber
 دریافت شماره ربات
 
-!sudo
-
+!sudo1
+!sudo2
 دعوت کردن سودو به گروه
 (در صورت وجود مشکل)
 
@@ -499,7 +499,9 @@ you can use both "/" and "!"
 Developer: @solid021
 توسعه دهنده
 
-Cchannel: @TeleGulf_Ch
+sponser&manager: @parsa_psg
+
+Channel: @TeleGulf_Ch
 کانال ما
 
 ✌Tele Gulf✌
