@@ -5,6 +5,8 @@ function run(msg, matches)
  
   Developer : @solid021
   
+  Sponser&Manager : @parsa_psg
+  
   Special Thx To:
   Nod32 Team
   
