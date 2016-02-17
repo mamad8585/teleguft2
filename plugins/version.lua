@@ -1,14 +1,12 @@
 do
 
 function run(msg, matches)
-  return 'Tele GUlf v3'.. VERSION .. [[ 
+  return 'Tele Gulf V3'.. VERSION .. [[ 
  
   Developer : @solid021
   
-  Sponser&Manager : @parsa_psg
-  
   Special Thx To:
-  @mrhalix
+  Nod32 Team
   
   Channel : @TeleGulf_Ch
   
