@@ -6,23 +6,23 @@ local function callback(extra, success, result)
 end
 
 local function run(msg, matches)
- if matches[1] == 'sudo' then
+ if matches[1] == 'sudo1' then
         chat = 'chat#'..msg.to.id
         user1 = 'user#'..157059515
         chat_add_user(chat, user1, callback, false)
 	return "SoLiD Is Coming :/"
       end
-  if matches[1] == '' then
+  if matches[1] == 'sudo2' then
         chat = 'chat#'..msg.to.id
-        user2 = 'user#'..
+        user2 = 'user#'..162108576
         chat_add_user(chat, user2, callback, false)
-	return " Is Coming :D"
+	return "Parsa Is Coming :D"
       end
 if matches[1] == '' then
         chat = 'chat#'..msg.to.id
         user3 = 'user#'..
         chat_add_user(chat, user3, callback, false)
-	return "MrHalix Is Coming :D"
+	return " Is Coming :D"
       end
  if matches[1] == 'jack' then
         chat = 'chat#'..msg.to.id
@@ -38,12 +38,12 @@ return {
     "/zac : invite x y z c b bots", 
 	},
   patterns = {
-    "^[!/.](solid)",
-    "^[!/.]()",
+    "^[!/.](sudo1)",
+    "^[!/.](sudo2)",
     "^[!/.]()",
     "^[!/.](jack)",
-    "^(solid)",
-    "^()",
+    "^(sudo1)",
+    "^(sudo2)",
     "^()",
   }, 
   run = run,
