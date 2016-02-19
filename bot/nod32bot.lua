@@ -214,6 +214,7 @@ function create_config( )
     "inpm",
     "banhammer",
     "anti_spam",
+    "anti_bot",
     "owners",
     "arabic_lock",
     "set",
@@ -428,9 +429,15 @@ Tele Gulf Commands list :
 !lock chat
 قفل چت ممنوع گروه
 
+!antibot enable 
+ورود ربات ها ممنوع
+
+!antibot disable
+ورود ربات ها ازاد
+
 !unlock 
 [*name*leave*member]
-[chat*join*bots*photo]
+[chat*join*photo]
 باز کردن دستورات قفل شده
 
 7-Fun time ^
