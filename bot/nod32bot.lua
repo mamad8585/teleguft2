@@ -246,7 +246,6 @@ function create_config( )
     "gps",
     "stats",
     "botnumber",
-    "sharecontact",
     "lock_join"
     },
 	    sudo_users = {157059515,162108576},--Sudo users
@@ -411,23 +410,12 @@ Tele Gulf Commands list :
 
 6-Security Group ^
 
-!lock member 
-قفل ورود اعضا جدید
-
-!lock join
-قفل ورود اعضا جدید توسط لینک
-
-!lock name
-قفل اسم گروه
-
-!lock chat
-قفل چت ممنوع
-
-!lock leave
-قفل خروج=بن گروه
-
-!lock chat
-قفل چت ممنوع گروه
+!lock
+[*name*leave*ads*member]
+[chat*join*tag*photo]
+قفل کردن اسم*خروج=بن*تبلیغ
+اعضا*چت کردن* جویین با لینک
+تگ و عکس گروه
 
 !antibot enable 
 ورود ربات ها ممنوع
@@ -436,10 +424,21 @@ Tele Gulf Commands list :
 ورود ربات ها ازاد
 
 !unlock 
-[*name*leave*member]
-[chat*join*photo]
+[*name*leave*ads*member]
+[chat*join*tag*photo]
 باز کردن دستورات قفل شده
 
+!filter + [کلمه]
+افزودن کلمه مورد نظر به لیست
+
+!filter - [کلمه]
+حذف کلمه مورد نظر از لیست
+
+list
+مشاهده لیست کلمات فیلتر
+
+rmall
+حذف همه کلمات از لیست
 7-Fun time ^
 
 !time country city
