@@ -223,7 +223,6 @@ function create_config( )
     "addplug",
     "add",
     "admin",
-    "filter",
     "setrank",
     "autoleave",
     "broadcast",
@@ -412,33 +411,22 @@ Tele Gulf Commands list :
 
 !lock
 [*name*leave*ads*member]
-[chat*join*tag*photo]
+[chat*join*photo]
 قفل کردن اسم*خروج=بن*تبلیغ
 اعضا*چت کردن* جویین با لینک
-تگ و عکس گروه
+قفل عکس
 
-!antibot enable 
+!antibot + 
 ورود ربات ها ممنوع
 
-!antibot disable
+!antibot -
 ورود ربات ها ازاد
 
 !unlock 
 [*name*leave*ads*member]
-[chat*join*tag*photo]
+[chat*join*photo]
 باز کردن دستورات قفل شده
 
-!filter + [کلمه]
-افزودن کلمه مورد نظر به لیست
-
-!filter - [کلمه]
-حذف کلمه مورد نظر از لیست
-
-list
-مشاهده لیست کلمات فیلتر
-
-rmall
-حذف همه کلمات از لیست
 7-Fun time ^
 
 !time country city
