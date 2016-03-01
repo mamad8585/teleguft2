@@ -1,58 +1,67 @@
 
 local function run(msg)
-if msg.text == "یاقی" then
-	return "کی اسم سازندمو صدا زد؟"
+if msg.text == "Solid" then
+	return "Ba Babam Kar Dashti?"
+end
+if msg.text == "Saeid" then
+	return "Ba Babam Kar Dashti?"
 end
 if msg.text == "Umbrella" then
-	return "کیر نود32 هم نی"
+	return "Chchchchch Chos Bot Nagaidam"
 end
 if msg.text == "umbrella" then
-	return "کیر نود32 هم نی"
+	return "Chchchchch Chos Bot Nagaidam"
 end
-if msg.text == "نود32" then
-	return "hum?"
+if msg.text == "Tele gulf" then
+	return "Jonam Eshqam?"
 end
-if msg.text == "اسپم" then
-	return "کس ننت میذارم بخای اسپم کنی"	
+if msg.text == "Mamshotak" then
+	return "Chchchchch Uno Ke Solid Gayid"	
 end
-if msg.text == "زتا" then
-	return "کس ننش بگو مرسی"	
+if msg.text == "ممشوتک" then
+	return "Kire Solidam Nis"	
 end
 if msg.text == "ایکس ایگرگ" then
-	return "ایکس ایگرگو همرا ننت گاییدم ابمم ریختم روش"	
+	return "Nagaidam"	
 end
 if msg.text == "spam" then
-	return "تو اگه تخم داشتی اسپم کنی الان اینجا بودی"	
+	return "Spam Koni Konet Mizaram"	
 end
-if msg.text == "ایکس" then
-	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
+if msg.text == "سعید" then
+	return "Enqad Babamo Seda Nazan Biad Jawabeto Mide"	
 end
-if msg.text == "ایگرگ" then
-	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
+if msg.text == "سلید" then
+	return "Babam Nistesh"	
 end
-if msg.text == "x" then
-	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
+if msg.text == "سلام" then
+	return "Salam Tole"	
 end
-if msg.text == "start" then
-	return "تو اگه تخم داشتی گروهو خراب کنی بیا پیش خودم ننتومیگام @behroozyaghi"
+if msg.text == "slm" then
+	return "Salam Kion Goshad"	
 end
-if msg.text == "y" then
-	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
+if msg.text == "solkon" then
+	return "Babam Konet Gozashte Ke Injori SEdash Mizani Dalqak"
+end
+if msg.text == "Salam" then
+	return "Salam Azizam"	
 end
 if msg.text == "Bot" then
-	return "چی کس میگی؟"
+	return "Benal?"
 end
 if msg.text == "?" then
-	return "Hum??"
+	return "Chiye Baz Soal Mikoni??"
+end
+if msg.text == "؟" then
+	return "Cheqad Soal Mikoni"
 end
 if msg.text == "بای" then
-	return "برو به سلامت سیکتیرکن"
+	return "Bye Azizam"
 end
-if msg.text == "XY" then
-	return "کس ننت میگام سیکتیر اوبی"
+if msg.text == "bye" then
+	return "Khudafez Jigar"
 end
-if msg.text == "Xy" then
-	return "Bye Bye"
+if msg.text == "by" then
+	return "Bye Bye Honey"
 end
 end
 
@@ -60,23 +69,27 @@ return {
 	description = "Chat With Robot Server", 
 	usage = "chat with robot",
 	patterns = {
-		"^یاقی$",
-		"^[Bb]ot$",
+		"^[Ss]olid$",
+		"^[Tt]ele gulf$",
 		"^[Uu]mbrella$",
 		"^بای$",
-		"^x$",
-		"^y$",
-		"^ایکس$",
-		"^ایگرگ$",
-		"^اسپم$",
-		"^زتا$",
-		"^spam$",
-		"^start$",
-		"^بای$",
-		"^Xy$",
-		"^XY$",
+		"^[Bb]ye",
+		"^[Bb]y",
+		"^[Ss]aeid$",
+		"^ممشوتک$",
+		"^ایکس ایگرگ$",
+		"^سعید$",
+		"^سلید$",
+		"^[Ss]pam$",
+		"^[Ss]lm$",
+		"^[Ss]alam$",
+		"^[Ss]olkon$",
+		"^سلام$",
+		"^[Bb]ot$"
+		"^[Xx][Yy]$",
+		"^[Mm]amshotak$",
 		"^?$",
-		"^نود32$"
+		"^؟$"
 		}, 
 	run = run,
     --privileged = true,
