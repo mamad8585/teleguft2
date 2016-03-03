@@ -336,7 +336,7 @@ Tele Gulf Commands list :
  
 1-banhammer list ^
  
-!kick [username|id]
+!sik [username|id]
 (کیک کردن شخص (حتی با ریپلی)
 
 !ban [ username|id]
@@ -345,7 +345,7 @@ Tele Gulf Commands list :
 !unban [id]
 (انبن کردن افراد (همراه ایدی)
 
-!kickme
+!sikme
 خروج از گروه
 
 2-Statistics list ^
@@ -422,6 +422,15 @@ Tele Gulf Commands list :
 !antibot -
 ورود ربات ها ازاد
 
+filter > [کلمه]
+اخطار به کلمه مورد نظر
+filter + [کلمه]
+اضافه کردن کلمه مورد نظر
+filter - [کلمه]
+حذف کلمه مورد نظر از لیست
+filterlist
+لیست کلمات فیلتر شده
+
 !unlock 
 [*name*leave*ads*member]
 [chat*join*photo]
@@ -438,8 +447,11 @@ Tele Gulf Commands list :
 !google
 سرچ مطلب مورد نظر از گوگل
  
- !gps
+!gps
  مکان کشور , شهر مورد نظر تحت گوگل
+
+!dogify [کلمه یا جمله]
+ارسال عکس سگ با نوشته مورد نظر
 
 8-Service Provider ^
 
