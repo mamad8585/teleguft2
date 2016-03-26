@@ -249,9 +249,9 @@ function create_config( )
 	    sudo_users = {157059515,162108576,174747020,140529465,107786502},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
+    about_text = [[Tele Gulf V3.2
 
-TeLe Gulf Based On Nod32
+TeLe Gulf PowerFull Bot Based On Nod32
 
 Channel : @TeleGulf_Ch
 
