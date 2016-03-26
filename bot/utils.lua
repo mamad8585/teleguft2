@@ -914,7 +914,11 @@ function ban_by_reply_admins(extra, success, result)
       return
     end
     ban_user(result.from.id, result.to.id)
+<<<<<<< HEAD
     send_large_msg(chat, "کاربر "..result.from.id.." بن شد.")
+=======
+    send_large_msg(chat, "کاربر "..result.from.id.."بن شد.")
+>>>>>>> origin/master
   else
     return 'Use This in Your Groups'
   end
@@ -927,7 +931,11 @@ function unban_by_reply(extra, success, result)
     if tonumber(result.from.id) == tonumber(our_id) then -- Ignore bot
       return "I won't unban myself"
     end
+<<<<<<< HEAD
     send_large_msg(chat, "کاربر "..result.from.id.." از بن خارج شد.")
+=======
+    send_large_msg(chat, "کاربر "..result.from.id.."از بن خارج شد.")
+>>>>>>> origin/master
     -- Save on redis
     local hash =  'banned:'..result.to.id
     redis:srem(hash, result.from.id)
