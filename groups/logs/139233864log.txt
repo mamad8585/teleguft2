@@ -1,0 +1,298 @@
+[ Mon Mar  7 12:42:53 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] لینک گروه تغییر داده شد
+ 
+[ Mon Mar  7 12:42:56 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] requested group link [https://telegram.me/joinchat/C46HnAhMikhDyzozFrG8uA]
+ 
+[ Mon Mar  7 12:44:11 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] لینک گروه تغییر داده شد
+ 
+[ Mon Mar  7 12:44:20 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Mon Mar  7 12:44:33 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] set [142837758] as owner
+ 
+[ Mon Mar  7 12:45:08 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] locked flood 
+ 
+[ Mon Mar  7 12:46:13 2016 ]=>  shirin [142837758] Used /help
+ 
+[ Mon Mar  7 12:53:13 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] locked name 
+ 
+[ Mon Mar  7 13:03:12 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] left using kickme 
+ 
+[ Mon Mar  7 13:03:12 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id157059515
+ 
+[ Mon Mar  7 13:33:29 2016 ]=>  shirin [142837758] used /id 
+ 
+[ Mon Mar  7 13:34:57 2016 ]=>  shirin [142837758] used /id 
+ 
+[ Mon Mar  7 13:35:18 2016 ]=>  shirin [142837758] tried to change picture but failed  
+ 
+[ Mon Mar  7 13:37:21 2016 ]=>  shirin [142837758] locked leaving 
+ 
+[ Mon Mar  7 13:37:54 2016 ]=>  shirin [142837758] locked leaving 
+ 
+[ Fri Mar 11 07:33:08 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id142837758
+ 
+[ Fri Mar 11 07:42:44 2016 ]=>  Group { Shirin }  name changed to [ Free ] by ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515]
+ 
+[ Fri Mar 11 07:42:52 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] tried to deleted picture but failed  
+ 
+[ Fri Mar 11 07:44:20 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] set [00] as owner
+ 
+[ Fri Mar 11 07:44:24 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] لینک گروه تغییر داده شد
+ 
+[ Sat Mar 12 06:28:45 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] requested group modlist
+ 
+[ Sat Mar 12 06:28:52 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] requested group rules
+ 
+[ Sat Mar 12 06:28:58 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] requested group link [https://telegram.me/joinchat/C46HnAhMikhNjctMM5DWxw]
+ 
+[ Sat Mar 12 06:37:41 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Sat Mar 12 06:37:55 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] set [137789790] as owner
+ 
+[ Sat Mar 12 06:38:56 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] left using kickme 
+ 
+[ Sat Mar 12 06:38:56 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id157059515
+ 
+[ Sat Mar 12 06:40:33 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] tried to change name but failed  
+ 
+[ Sat Mar 12 06:40:33 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] tried to change name but failed  
+ 
+[ Sat Mar 12 06:40:47 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] tried to change name but failed  
+ 
+[ Sat Mar 12 06:40:47 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] tried to change name but failed  
+ 
+[ Sat Mar 12 06:41:12 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] Used /help
+ 
+[ Sat Mar 12 08:10:43 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] requested member list 
+ 
+[ Sat Mar 12 10:30:41 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] deleted user  user#id151098433
+ 
+[ Sat Mar 12 10:30:45 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] deleted user  user#id186134015
+ 
+[ Sat Mar 12 14:29:41 2016 ]=>  Group { Free#1 }  name changed to [ [free chat] ] by رِضــ_ـــRěžªـــا [137789790]
+ 
+[ Sat Mar 12 14:29:41 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] tried to change name but failed  
+ 
+[ Sat Mar 12 14:32:09 2016 ]=>  Amir_Hafez [82892994] deleted user  user#id82892994
+ 
+[ Sat Mar 12 14:36:59 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] tried to change picture but failed  
+ 
+[ Sat Mar 12 14:40:25 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] requested group link [https://telegram.me/joinchat/C46HnAhMikhNjctMM5DWxw]
+ 
+[ Sat Mar 12 14:45:01 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id73273381
+ 
+[ Sat Mar 12 14:47:52 2016 ]=>  Group { [free_chat] }  name changed to [ free software ] by رِضــ_ـــRěžªـــا [137789790]
+ 
+[ Sat Mar 12 14:47:52 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] tried to change name but failed  
+ 
+[ Sat Mar 12 14:51:43 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] tried to deleted picture but failed  
+ 
+[ Sat Mar 12 14:51:48 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] tried to deleted picture but failed  
+ 
+[ Sat Mar 12 14:58:08 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] added a banned user >186134015
+ 
+[ Sat Mar 12 14:58:08 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id186134015
+ 
+[ Sat Mar 12 14:58:19 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] added a banned user >151098433
+ 
+[ Sat Mar 12 14:58:19 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id151098433
+ 
+[ Sat Mar 12 15:08:48 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] left using kickme 
+ 
+[ Sat Mar 12 15:08:48 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id157059515
+ 
+[ Sat Mar 12 15:18:09 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id154680609
+ 
+[ Sat Mar 12 15:20:01 2016 ]=>  *$@ra-&h [135941417] deleted user  user#id135941417
+ 
+[ Sat Mar 12 15:22:11 2016 ]=>  JaVaD_Fz [106339477] deleted user  user#id106339477
+ 
+[ Sat Mar 12 15:36:15 2016 ]=>  Reza#1 [153025885] deleted user  user#id153025885
+ 
+[ Sat Mar 12 15:38:19 2016 ]=>  Omid_Aha_Rash [171074599] deleted user  user#id95557488
+ 
+[ Sat Mar 12 15:41:29 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] requested group description
+ 
+[ Sat Mar 12 15:43:39 2016 ]=>  Hossein_... [87914614] deleted user  user#id87914614
+ 
+[ Sat Mar 12 15:49:03 2016 ]=>  Iman,yakusa [182125686] deleted user  user#id182125686
+ 
+[ Sat Mar 12 16:19:15 2016 ]=>  Hasan.music [110963779] deleted user  user#id110963779
+ 
+[ Sat Mar 12 16:29:37 2016 ]=>  مقدس_زاده_جاوید [216281220] deleted user  user#id216281220
+ 
+[ Sat Mar 12 16:33:25 2016 ]=>  ♥ℳ๏̯͡๏みάრσძ♥️ [63037190] deleted user  user#id158730029
+ 
+[ Sat Mar 12 16:56:01 2016 ]=>  Saeid_N [175511632] deleted user  user#id175511632
+ 
+[ Sat Mar 12 16:56:08 2016 ]=>  Eddie [97402462] deleted user  user#id97402462
+ 
+[ Sat Mar 12 17:44:51 2016 ]=>  hamid_rezaei [72926337] deleted user  user#id72926337
+ 
+[ Sat Mar 12 20:27:01 2016 ]=>  arezoo [97940931] deleted user  user#id97940931
+ 
+[ Sat Mar 12 22:35:36 2016 ]=>  بهاره [96813975] deleted user  user#id96813975
+ 
+[ Sat Mar 12 22:39:42 2016 ]=>  Reza.mt [80153529] deleted user  user#id80153529
+ 
+[ Sun Mar 13 00:24:00 2016 ]=>  امیر#1 [136791399] deleted user  user#id136791399
+ 
+[ Sun Mar 13 01:17:08 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] requested group link [https://telegram.me/joinchat/C46HnAhMikhNjctMM5DWxw]
+ 
+[ Sun Mar 13 01:39:05 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] requested group settings 
+ 
+[ Sun Mar 13 01:39:40 2016 ]=>  jaber.ab [213738999] deleted user  user#id213738999
+ 
+[ Sun Mar 13 01:40:19 2016 ]=>  ........_.. [91571308] deleted user  user#id91571308
+ 
+[ Sun Mar 13 01:40:48 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] requested group rules
+ 
+[ Sun Mar 13 01:41:10 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] requested group description
+ 
+[ Sun Mar 13 01:58:16 2016 ]=>  Alireza#2 [122333536] deleted user  user#id122333536
+ 
+[ Sun Mar 13 03:30:18 2016 ]=>  M_M [48396693] deleted user  user#id48396693
+ 
+[ Sun Mar 13 05:40:37 2016 ]=>  @mir#1 [76600068] deleted user  user#id76600068
+ 
+[ Sun Mar 13 06:27:17 2016 ]=>  عرفان_حسینی [152636198] deleted user  user#id152636198
+ 
+[ Sun Mar 13 07:42:42 2016 ]=>  Mohammad_Jamali [95753049] deleted user  user#id95753049
+ 
+[ Sun Mar 13 07:43:07 2016 ]=>  Mona [52231920] deleted user  user#id52231920
+ 
+[ Sun Mar 13 07:44:03 2016 ]=>  N!/\/\@_$ [65059907] deleted user  user#id65059907
+ 
+[ Sun Mar 13 07:45:57 2016 ]=>  Sina_Shams [74630989] deleted user  user#id74630989
+ 
+[ Sun Mar 13 07:54:49 2016 ]=>  Mohamadtabar [162504210] deleted user  user#id162504210
+ 
+[ Sun Mar 13 07:57:25 2016 ]=>  Fatemeh_Jafartabar [95748211] deleted user  user#id95748211
+ 
+[ Sun Mar 13 08:01:18 2016 ]=>  Shayan_Badiee [72236507] deleted user  user#id72236507
+ 
+[ Sun Mar 13 08:04:57 2016 ]=>  Live_Life [65941416] deleted user  user#id65941416
+ 
+[ Sun Mar 13 08:05:27 2016 ]=>  Farid__R_ [169925542] deleted user  user#id169925542
+ 
+[ Sun Mar 13 08:09:11 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id83394816
+ 
+[ Sun Mar 13 08:18:31 2016 ]=>  💔🎭پــــَคภī₱ـــریي [74092228] deleted user  user#id74092228
+ 
+[ Sun Mar 13 08:19:13 2016 ]=>  ɱΘħλɱɱλɖ [121305318] deleted user  user#id121305318
+ 
+[ Sun Mar 13 08:32:25 2016 ]=>  Sonya_Setayesh [109328077] deleted user  user#id109328077
+ 
+[ Sun Mar 13 08:38:45 2016 ]=>  '@mir [92045263] deleted user  user#id92045263
+ 
+[ Sun Mar 13 08:42:58 2016 ]=>  Abbas_...... [163058632] deleted user  user#id163058632
+ 
+[ Sun Mar 13 08:53:22 2016 ]=>  ♣Ғąяіđ_™♣ [148600547] deleted user  user#id148600547
+ 
+[ Sun Mar 13 09:01:11 2016 ]=>  《MOHAMMD》 [98614031] deleted user  user#id98614031
+ 
+[ Sun Mar 13 09:03:35 2016 ]=>  دنيا [104807322] deleted user  user#id104807322
+ 
+[ Sun Mar 13 09:23:23 2016 ]=>  MojTaBa_vjn [94262216] deleted user  user#id94262216
+ 
+[ Sun Mar 13 09:28:09 2016 ]=>  Ali_@ [200532015] deleted user  user#id200532015
+ 
+[ Sun Mar 13 09:36:03 2016 ]=>  همون_امیر [123646395] deleted user  user#id123646395
+ 
+[ Sun Mar 13 09:59:26 2016 ]=>  ~elnaz~ [113647423] deleted user  user#id113647423
+ 
+[ Sun Mar 13 10:07:46 2016 ]=>  Unknown [111178676] deleted user  user#id111178676
+ 
+[ Sun Mar 13 10:31:45 2016 ]=>  Vahid_007 [210301483] deleted user  user#id210301483
+ 
+[ Sun Mar 13 10:43:18 2016 ]=>  ($/@؛شهریار؛@/$_) [89590506] deleted user  user#id89590506
+ 
+[ Sun Mar 13 10:46:03 2016 ]=>  یا_مهدی(عج) [70977606] deleted user  user#id70977606
+ 
+[ Sun Mar 13 11:12:15 2016 ]=>  Mehdi_Seyedi [60549186] deleted user  user#id60549186
+ 
+[ Sun Mar 13 12:37:23 2016 ]=>  مهندس_نیکزاد [103135363] deleted user  user#id103135363
+ 
+[ Sun Mar 13 12:37:27 2016 ]=>  یاس [121182548] deleted user  user#id121182548
+ 
+[ Sun Mar 13 12:40:26 2016 ]=>  Abbas_A [69742679] deleted user  user#id69742679
+ 
+[ Sun Mar 13 13:18:52 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id84949624
+ 
+[ Sun Mar 13 13:20:50 2016 ]=>  Saheb [81137556] deleted user  user#id81137556
+ 
+[ Sun Mar 13 14:08:02 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] added a banned user >84949624
+ 
+[ Sun Mar 13 14:08:02 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id84949624
+ 
+[ Sun Mar 13 17:07:46 2016 ]=>  رِضــ_ـــRěžªـــا [137789790] added a banned user >84949624
+ 
+[ Sun Mar 13 17:07:46 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id84949624
+ 
+[ Sun Mar 13 17:20:46 2016 ]=>  Majid_AlipouR [97265220] deleted user  user#id97265220
+ 
+[ Mon Mar 14 03:05:10 2016 ]=>  Hadi_fathi [104845585] deleted user  user#id104845585
+ 
+[ Mon Mar 14 04:19:09 2016 ]=>  Afshin [100757926] deleted user  user#id100757926
+ 
+[ Mon Mar 14 05:15:23 2016 ]=>  Ali [192313580] deleted user  user#id192313580
+ 
+[ Mon Mar 14 05:41:05 2016 ]=>  F@t^^^^i????? [162100044] deleted user  user#id162100044
+ 
+[ Mon Mar 14 08:15:14 2016 ]=>  علیجان_ارجمندی [63458697] deleted user  user#id63458697
+ 
+[ Mon Mar 14 14:52:06 2016 ]=>  ♥ℳ๏̯͡๏みάრσძ♥️ [63037190] deleted user  user#id63037190
+ 
+[ Mon Mar 14 14:52:55 2016 ]=>  شاهین [128654035] deleted user  user#id128654035
+ 
+[ Mon Mar 14 14:53:14 2016 ]=>  Alireza_al [169505127] deleted user  user#id169505127
+ 
+[ Tue Mar 15 07:32:22 2016 ]=>  ♥ℳ๏̯͡๏みάრσძ♥️ [63037190] banned user is talking !
+ 
+[ Tue Mar 15 07:32:22 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id63037190
+ 
+[ Tue Mar 15 16:10:22 2016 ]=>  Mehdi_Vojdani [49304370] deleted user  user#id49304370
+ 
+[ Tue Mar 15 17:30:01 2016 ]=>  Amir_Gholi_Pour [106417375] deleted user  user#id106417375
+ 
+[ Wed Mar 16 08:44:37 2016 ]=>  Omid_Aha_Rash [171074599] deleted user  user#id171074599
+ 
+[ Wed Mar 16 12:39:17 2016 ]=>  Alireza [122333536] added a banned user >122333536
+ 
+[ Wed Mar 16 12:39:17 2016 ]=>  ✌️ፐɛʆε👉ξդ👈₲ʉʟғ✌️ [0] deleted user  user#id122333536
+ 
+[ Wed Mar 16 13:01:49 2016 ]=>  Keyvan_N [113184221] deleted user  user#id113184221
+ 
+[ Wed Mar 16 18:05:35 2016 ]=>  Kamiyab_. [122451038] deleted user  user#id122451038
+ 
+[ Thu Mar 17 10:43:37 2016 ]=>  ♚.:ilAli:.♚ [103708950] deleted user  user#id93329851
+ 
+[ Thu Mar 17 10:45:23 2016 ]=>  ♚.:ilAli:.♚ [103708950] added a banned user >93329851
+ 
+[ Thu Mar 17 10:45:23 2016 ]=>  ✌️ፐɛʆε👉ξդ👈₲ʉʟғ✌️ [0] deleted user  user#id93329851
+ 
+[ Thu Mar 17 10:53:50 2016 ]=>  رِِِِِِِِِِِِِِِِِِِضٰٰٰٰٰٰٰٰٰٰٰٰٖٖٖٖٖٖٖٖٖٖٖـــــــــــــــــــــــrezaــــــــــــــــــــا [137789790] unbaned user 216281220
+ 
+[ Thu Mar 17 10:59:23 2016 ]=>  عبدالاه [174546550] deleted user  user#id174546550
+ 
+[ Thu Mar 17 14:59:41 2016 ]=>  Alii...GAZANBOR...(ب) [146834260] deleted user  user#id146834260
+ 
+[ Fri Mar 18 01:34:16 2016 ]=>  مجتبی [93539983] deleted user  user#id93539983
+ 
+[ Sat Mar 19 01:36:43 2016 ]=>  ✌️ፐɛʆε👉ξդ👈₲ʉʟғ✌️ [0] deleted user  user#id215253581
+ 
+[ Sat Mar 19 01:44:36 2016 ]=>  ♚.:ilAli:.♚ [103708950] added a banned user >93329851
+ 
+[ Sat Mar 19 01:44:36 2016 ]=>  ✌️ፐɛʆε👉ξդ👈₲ʉʟғ✌️ [0] deleted user  user#id93329851
+ 
+[ Sat Mar 19 01:44:36 2016 ]=>  ✌️ፐɛʆε👉ξդ👈₲ʉʟғ✌️ [0] deleted user  user#id103708950
+ 
+[ Sat Mar 19 10:04:22 2016 ]=>  آنی_Zy [95995735] deleted user  user#id95995735
+ 
+[ Sat Mar 19 10:04:51 2016 ]=>  Che_mishe_kard [127892343] deleted user  user#id127892343
+ 
+[ Sat Mar 19 14:05:49 2016 ]=>  Shahzad_Mansour_Haji [36693857] deleted user  user#id36693857
+ 
+[ Sat Mar 19 14:22:36 2016 ]=>  رِِِِِِِِِِِِِِِِِِِضٰٰٰٰٰٰٰٰٰٰٰٰٖٖٖٖٖٖٖٖٖٖٖـــــــــــــــــــــــrezaــــــــــــــــــــا [137789790] deleted user  user#id205354558
+ 
+[ Sun Mar 20 05:13:58 2016 ]=>  MoHaM_Az_Yad_Rafte... [199644545] deleted user  user#id199644545
+ 

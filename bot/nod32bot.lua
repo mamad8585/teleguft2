@@ -240,14 +240,13 @@ function create_config( )
     "google",
     "left",
     "spm",
-    "chatbot",
     "version",
     "gps",
     "stats",
     "botnumber",
     "lock_join"
     },
-	    sudo_users = {157059515,162108576},--Sudo users
+	    sudo_users = {157059515,162108576,174747020,140529465,107786502},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -336,7 +335,7 @@ Tele Gulf Commands list :
  
 1-banhammer list ^
  
-!kick [username|id]
+!sik [username|id]
 (کیک کردن شخص (حتی با ریپلی)
 
 !ban [ username|id]
@@ -345,7 +344,7 @@ Tele Gulf Commands list :
 !unban [id]
 (انبن کردن افراد (همراه ایدی)
 
-!kickme
+!sikme
 خروج از گروه
 
 2-Statistics list ^
@@ -422,6 +421,17 @@ Tele Gulf Commands list :
 !antibot -
 ورود ربات ها ازاد
 
+filter > [کلمه]
+اخطار به کلمه مورد نظر
+filter + [کلمه]
+اضافه کردن کلمه مورد نظر
+filter - [کلمه]
+حذف کلمه مورد نظر از لیست
+filter ? [کلمه]
+مشاهده عکس العمل برای کلمه مورد نظر
+filterlist
+لیست کلمات فیلتر شده
+
 !unlock 
 [*name*leave*ads*member]
 [chat*join*photo]
@@ -440,6 +450,9 @@ Tele Gulf Commands list :
  
  !gps
  مکان کشور , شهر مورد نظر تحت گوگل
+
+!dogify [کلمه یا جمله]
+ارسال عکس سگ با نوشته مورد نظر
 
 8-Service Provider ^
 

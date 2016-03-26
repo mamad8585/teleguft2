@@ -1,0 +1,256 @@
+[ Tue Mar  1 21:21:03 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] requested group settings 
+ 
+[ Tue Mar  1 21:23:40 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] locked name 
+ 
+[ Tue Mar  1 22:38:19 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Tue Mar  1 22:39:00 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] deleted user  user#id157059515
+ 
+[ Wed Mar  2 00:08:13 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Wed Mar  2 00:10:35 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /telegulf 
+ 
+[ Wed Mar  2 00:36:00 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] left using kickme 
+ 
+[ Wed Mar  2 00:36:01 2016 ]=>  No_Name [190548287] deleted user  user#id157059515
+ 
+[ Wed Mar  2 00:36:01 2016 ]=>  Kazem [156249389] deleted user  user#id157059515
+ 
+[ Wed Mar  2 00:36:10 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] left using kickme 
+ 
+[ Wed Mar  2 00:36:10 2016 ]=>  No_Name [190548287] deleted user  user#id157059515
+ 
+[ Wed Mar  2 00:36:11 2016 ]=>  Kazem [156249389] deleted user  user#id157059515
+ 
+[ Wed Mar  2 00:47:37 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] left using kickme 
+ 
+[ Wed Mar  2 00:47:38 2016 ]=>  No_Name [190548287] deleted user  user#id157059515
+ 
+[ Wed Mar  2 00:47:38 2016 ]=>  Kazem [156249389] deleted user  user#id157059515
+ 
+[ Wed Mar  2 00:47:46 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] left using kickme 
+ 
+[ Wed Mar  2 00:47:47 2016 ]=>  No_Name [190548287] deleted user  user#id157059515
+ 
+[ Wed Mar  2 00:47:47 2016 ]=>  Kazem [156249389] deleted user  user#id157059515
+ 
+[ Wed Mar  2 00:48:06 2016 ]=>  No_Name [190548287] deleted user  user#id156249389
+ 
+[ Wed Mar  2 00:49:11 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Wed Mar  2 00:49:31 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Wed Mar  2 01:04:55 2016 ]=>  ✌️ፐɛʆε_₲ʉʟғ✌️ [0] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:05:58 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:05:59 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:05:59 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:00 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:00 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:01 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:02 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:02 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:03 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:04 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:04 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:05 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:06 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:06 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:07 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:07 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:07 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:07 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:08 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:09 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:09 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:10 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:10 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:10 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:10 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:11 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:11 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:12 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:13 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:13 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:14 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:15 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:15 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:16 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:19 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:19 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:19 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:21 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:21 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:21 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:23 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:23 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:23 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:24 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:24 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:25 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:26 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:26 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:27 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:28 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:28 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:29 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:30 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:30 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:31 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:32 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:32 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:33 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:34 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:34 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:34 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:36 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:36 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:36 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:37 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:37 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:37 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:38 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:39 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:39 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:41 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:41 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:42 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:42 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:43 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:43 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:43 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:43 2016 ]=>  No_Name [190548287] added a banned user >176543239
+ 
+[ Wed Mar  2 01:06:43 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:43 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:44 2016 ]=>  Kazem [156249389] added a banned user >176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  Kazem [156249389] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  No_Name [190548287] added a banned user >176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  No_Name [190548287] added a banned user >176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  Kazem [156249389] added a banned user >176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  Kazem [156249389] added a banned user >176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:45 2016 ]=>  No_Name [190548287] deleted user  user#id176543239
+ 
+[ Wed Mar  2 01:06:46 2016 ]=>  No_Name [190548287] deleted user  user#id156249389
+ 
+[ Wed Mar  2 01:07:06 2016 ]=>  No_Name [190548287] banned user is talking !
+ 
+[ Wed Mar  2 01:07:36 2016 ]=>  No_Name [190548287] banned user is talking !
+ 
+[ Wed Mar  2 01:08:09 2016 ]=>  No_Name [190548287] banned user is talking !
+ 
+[ Wed Mar  2 01:08:28 2016 ]=>  No_Name [190548287] banned user is talking !
+ 
+[ Wed Mar  2 02:17:14 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] Used /res Angry_WoW_Mr_Ali_WoW_angry
+ 
+[ Wed Mar  2 02:17:15 2016 ]=>  No_Name [190548287] banned user is talking !
+ 
+[ Wed Mar  2 06:10:11 2016 ]=>  ✌️_Navidm_✌️_ツ [206517248] deleted user  user#id206517248
+ 
+[ Wed Mar  2 08:37:34 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] Used /res Mraash81
+ 
+[ Wed Mar  2 08:37:35 2016 ]=>  No_Name [190548287] banned user is talking !
+ 
+[ Wed Mar  2 11:25:15 2016 ]=>  No_Name [190548287] banned user is talking !
+ 
+[ Wed Mar  2 11:25:21 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Wed Mar  2 11:25:21 2016 ]=>  No_Name [190548287] banned user is talking !
+ 
+[ Thu Mar  3 09:10:52 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Thu Mar  3 09:10:52 2016 ]=>  No_Name [190548287] banned user is talking !
+ 

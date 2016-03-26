@@ -134,7 +134,7 @@ local function run(msg, matches)
       return "Group ID for " ..string.gsub(msg.to.print_name, "_", " ").. ":\n\n"..msg.to.id  
     end
   end
-  if matches[1]:lower() == 'kickme' then-- /kickme
+  if matches[1]:lower() == 'sikme' then-- /kickme
   local receiver = get_receiver(msg)
     if msg.to.type == 'chat' then
       local name = user_print_name(msg.from)
@@ -216,7 +216,7 @@ local function run(msg, matches)
 	end
  end
 
-if matches[1]:lower() == 'kick' then
+if matches[1]:lower() == 'sik' then
     if type(msg.reply_id)~="nil" and is_momod(msg) then
       if is_admin(msg) then
         local msgr = get_message(msg.reply_id,Kick_by_reply_admins, false)
@@ -257,7 +257,7 @@ end
     return
   end
 
-  if matches[1]:lower() == 'banall' then -- Global ban
+  if matches[1]:lower() == 'bnll' then -- Global ban
     if type(msg.reply_id) ~="nil" and is_admin(msg) then
       return get_message(msg.reply_id,banall_by_reply, false)
     end
@@ -281,7 +281,7 @@ end
 		res_user(username, kick_ban_res, cbres_extra)
       	end
   end
-  if matches[1]:lower() == 'unbanall' then -- Global unban
+  if matches[1]:lower() == 'ubnll' then -- Global unban
     local user_id = matches[2]
     local chat_id = msg.to.id
       if string.match(matches[2], '^%d+$') then
@@ -301,40 +301,40 @@ end
 		res_user(username, kick_ban_res, cbres_extra)
       end
   end
-  if matches[1]:lower() == "gbanlist" then -- Global ban list
+  if matches[1]:lower() == "gblist" then -- global ban list
     return banall_list()
   end
 end
 
 return {
   patterns = {
-    "^[!/]([Bb]anall) (.*)$",
-    "^[!/]([Bb]anall)$",
+    "^[!/]([Bb]nll) (.*)$",
+    "^[!/]([Bb]nll)$",
     "^[!/]([Bb]anlist) (.*)$",
     "^[!/]([Bb]anlist)$",
-    "^[!/]([Gg]banlist)$",
+    "^[!/]([Gg]blist)$",
     "^[!/]([Bb]an) (.*)$",
-    "^[!/]([Kk]ick)$",
+    "^[!/]([Ss]ik)$",
     "^[!/]([Uu]nban) (.*)$",
-    "^[!/]([Uu]nbanall) (.*)$",
-    "^[!/]([Uu]nbanall)$",
-    "^[!/]([Kk]ick) (.*)$",
-    "^[!/]([Kk]ickme)$",
+    "^[!/]([Uu]bnll) (.*)$",
+    "^[!/]([Uu]bnll)$",
+    "^[!/]([Ss]ik) (.*)$",
+    "^[!/]([Ss]ikme)$",
     "^[!/]([Bb]an)$",
     "^[!/]([Uu]nban)$",
     "^[!/]([Ii]d)$",
-    "^([Bb]anall) (.*)$",
-    "^([Bb]anall)$",
+    "^([Bb]nll) (.*)$",
+    "^([Bb]nll)$",
     "^([Bb]anlist) (.*)$",
     "^([Bb]anlist)$",
-    "^([Gg]banlist)$",
+    "^([Gg]blist)$",
     "^([Bb]an) (.*)$",
-    "^([Kk]ick)$",
+    "^([Ss]ik)$",
     "^([Uu]nban) (.*)$",
-    "^([Uu]nbanall) (.*)$",
-    "^([Uu]nbanall)$",
-    "^([Kk]ick) (.*)$",
-    "^([Kk]ickme)$",
+    "^([Uu]bnll) (.*)$",
+    "^([Uu]bnll)$",
+    "^([Ss]ik) (.*)$",
+    "^([Ss]ikme)$",
     "^([Bb]an)$",
     "^([Uu]nban)$",
     "^([Ii]d)$",
@@ -343,7 +343,4 @@ return {
   run = run,
   pre_process = pre_process
 }
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+--Copyright;@solid021

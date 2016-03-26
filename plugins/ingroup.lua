@@ -1,4 +1,4 @@
-do
+﻿do
 
 -- Check Member
 local function check_member_autorealm(cb_extra, success, result)
@@ -13,6 +13,7 @@ local function check_member_autorealm(cb_extra, success, result)
         group_type = 'Realm',
         settings = {
           set_name = string.gsub(msg.to.print_name, '_', ' '),
+		  lock_talking = 'no',
           lock_join = 'no',
 	  antilink = 'yes',
 	  lock_name = 'yes',
@@ -46,6 +47,7 @@ local function check_member_realm_add(cb_extra, success, result)
         group_type = 'Realm',
         settings = {
           set_name = string.gsub(msg.to.print_name, '_', ' '),
+		  lock_talking = 'no',
           lock_join = 'no',
 		  antilink = 'yes',
 		  lock_name = 'yes',
@@ -81,6 +83,7 @@ function check_member_group(cb_extra, success, result)
         set_owner = member_id ,
         settings = {
           set_name = string.gsub(msg.to.print_name, '_', ' '),
+		  lock_talking = 'no',
           lock_join = 'no',
 		  antilink = 'yes',
 		  lock_name = 'yes',
@@ -116,6 +119,7 @@ local function check_member_modadd(cb_extra, success, result)
         set_owner = member_id ,
         settings = {
           set_name = string.gsub(msg.to.print_name, '_', ' '),
+		  lock_talking = 'no',
           lock_join = 'no',
 		  antilink = 'yes',
 		  lock_name = 'yes',
@@ -216,7 +220,7 @@ local function show_group_settingsmod(msg, data, target)
     	leave_ban = data[tostring(msg.to.id)]['settings']['leave_ban']
    	end
   local settings = data[tostring(target)]['settings']
-  local text ="Group settings:\n•••Lock group join with link ⛔️: "..settings.lock_join.."\n•••Lock group ads 🛂 : "..settings.antilink.."\n•••Lock group name  🔤: "..settings.lock_name.."\n•••Lock group photo  🖼 : "..settings.lock_photo.."\n•••Lock new member 🚷 : "..settings.lock_member.."\n•••Lock group leave ban ❌: "..leave_ban.."\n•••set flood on 🔣: "..NUM_MSG_MAX.."\n•••Bot security 👾 : "..bots_protection.."                                             •••✌Tele Gulf✌"
+  local text ="Group settings:\n•••Lock group talking 🔇: "..settings.lock_talking.."\n•••Lock group join with link ⛔️: "..settings.lock_join.."\n•••Lock group ads 🛂 : "..settings.antilink.."\n•••Lock group name  🔤: "..settings.lock_name.."\n•••Lock group photo  🖼 : "..settings.lock_photo.."\n•••Lock new member 🚷 : "..settings.lock_member.."\n•••Lock group leave ban ❌: "..leave_ban.."\n•••set flood on 🔣: "..NUM_MSG_MAX.."\n•••Bot security 👾 : "..bots_protection.."                                             •••✌Tele Gulf✌"
   return text
 end
 
@@ -242,11 +246,11 @@ local function lock_group_arabic(msg, data, target)
   if not is_momod(msg) then
     return "این دستور را فقط مدیر و ادمین ها میتوانند استفاده کنند"
   end
-  local group_arabic_lock = data[tostring(target)]['settings']['lock_arabic']
+  local group_arabic_lock = data[tostring(target)]['settings']['lock_talking']
   if group_arabic_lock == 'yes' then
     return 'چت ممنوع فعال شد و اگر کسی در این گروه حرف بزند اخراج میشود'
   else
-    data[tostring(target)]['settings']['lock_arabic'] = 'yes'
+    data[tostring(target)]['settings']['lock_talking'] = 'yes'
     save_data(_config.moderation.data, data)
     return 'چت ممنوع فعال شد و اگر کسی در این گروه حرف بزند اخراج میشود'
   end
@@ -256,11 +260,11 @@ local function unlock_group_arabic(msg, data, target)
   if not is_momod(msg) then
     return "این دستور را فقط مدیر و ادمین ها میتوانند استفاده کنند"
   end
-  local group_arabic_lock = data[tostring(target)]['settings']['lock_arabic']
+  local group_arabic_lock = data[tostring(target)]['settings']['lock_talking']
   if group_arabic_lock == 'no' then
     return 'چت ممنوع غیرفعال شد'
   else
-    data[tostring(target)]['settings']['lock_arabic'] = 'no'
+    data[tostring(target)]['settings']['lock_talking'] = 'no'
     save_data(_config.moderation.data, data)
     return 'چت ممنوع غیرفعال شد'
   end
@@ -1353,7 +1357,7 @@ return {
   "^[!/]([Ll]inkpv)$",
   "^[!/]([Kk]ickinactive)$",
   "^[!/]([Kk]ickinactive) (%d+)$",
-  "^([Aa]dd)$",
+  "^[Aa]dd)$",
   "^([Rr]em)$",
   "^([Rr]ules)$",
   "^([Aa]bout)$",

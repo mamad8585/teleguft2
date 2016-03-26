@@ -1,0 +1,120 @@
+[ Tue Mar  1 06:07:41 2016 ]=>  MiLAD [186342360] used /id 
+ 
+[ Tue Mar  1 06:07:56 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Tue Mar  1 06:08:30 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] used /id 
+ 
+[ Tue Mar  1 06:08:41 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] set [186342360] as owner
+ 
+[ Tue Mar  1 06:08:53 2016 ]=>  ✌ښُــلــيــڍݥ₱₷₲™ۺِڹاڂٺے؟✌ [157059515] deleted user  user#id157059515
+ 
+[ Tue Mar  1 06:09:03 2016 ]=>  MiLAD [186342360] Used /help
+ 
+[ Tue Mar  1 06:09:48 2016 ]=>  ilqar_madadi [121504104] deleted user  user#id186342360
+ 
+[ Tue Mar  1 06:10:58 2016 ]=>  んﾑᄊ乇Ð#1 [125220380] deleted user  user#id125220380
+ 
+[ Tue Mar  1 06:11:47 2016 ]=>  MiLAD [186342360] used /id 
+ 
+[ Tue Mar  1 06:11:53 2016 ]=>  MiLAD [186342360] requested group modlist
+ 
+[ Tue Mar  1 06:12:31 2016 ]=>  MiLAD [186342360] promoted @@t0Rk_M
+ 
+[ Tue Mar  1 06:12:47 2016 ]=>  MiLAD [186342360] requested group modlist
+ 
+[ Tue Mar  1 06:13:00 2016 ]=>  MiLAD [186342360] used /owner
+ 
+[ Tue Mar  1 06:13:52 2016 ]=>  MiLAD [186342360] لینک گروه تغییر داده شد
+ 
+[ Tue Mar  1 06:15:08 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Tue Mar  1 06:27:08 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Tue Mar  1 06:27:37 2016 ]=>  んﾑᄊ乇Ð [214639636] deleted user  user#id214639636
+ 
+[ Tue Mar  1 06:27:44 2016 ]=>  んﾑᄊ乇Ð#1 [125220380] added a banned user >214639636
+ 
+[ Tue Mar  1 06:28:51 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Tue Mar  1 06:34:12 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Tue Mar  1 07:28:53 2016 ]=>  MiLAD [186342360] locked flood 
+ 
+[ Tue Mar  1 09:51:21 2016 ]=>  んﾑᄊ乇Ð [214639636] deleted user  user#id125220380
+ 
+[ Tue Mar  1 13:17:32 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Tue Mar  1 13:19:12 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Tue Mar  1 14:06:00 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Tue Mar  1 14:06:15 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Tue Mar  1 14:06:37 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Tue Mar  1 14:06:44 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Tue Mar  1 14:07:07 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Tue Mar  1 14:07:16 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Tue Mar  1 14:07:30 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Tue Mar  1 14:09:32 2016 ]=>  MiLAD [186342360] Used /help
+ 
+[ Tue Mar  1 14:10:25 2016 ]=>  MiLAD [186342360] لینک گروه تغییر داده شد
+ 
+[ Wed Mar  2 05:38:05 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:44:33 2016 ]=>  んﾑᄊ乇Ð [214639636] deleted user  user#id172212694
+ 
+[ Wed Mar  2 05:49:22 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Wed Mar  2 05:52:52 2016 ]=>  MiLAD [186342360] Used /help
+ 
+[ Wed Mar  2 05:53:38 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Wed Mar  2 05:53:53 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Wed Mar  2 05:54:44 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:55:49 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:55:54 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:55:59 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:56:16 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:56:24 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:56:33 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:56:41 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:56:55 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:57:28 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:57:45 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:57:54 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 05:58:54 2016 ]=>  MiLAD [186342360] لینک گروه تغییر داده شد
+ 
+[ Wed Mar  2 06:01:00 2016 ]=>  MiLAD [186342360] لینک گروه تغییر داده شد
+ 
+[ Wed Mar  2 06:01:12 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 06:01:14 2016 ]=>  んﾑᄊ乇Ð [214639636] banned user is talking !
+ 
+[ Wed Mar  2 06:02:29 2016 ]=>  MiLAD [186342360] deleted user  user#id186342360
+ 
+[ Wed Mar  2 06:02:51 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Wed Mar  2 06:03:00 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Wed Mar  2 06:03:49 2016 ]=>  ilqar_madadi [121504104] banned user is talking !
+ 
+[ Wed Mar  2 06:04:09 2016 ]=>  MEHRAB__T_M. [116982147] deleted user  user#id193890204
+ 

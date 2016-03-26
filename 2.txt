@@ -1,0 +1,6 @@
+local function run(msg)
+  local about = '„«·”'
+        return about
+    end
+return {patterns = {
+   "”·«„" }, run = run}
